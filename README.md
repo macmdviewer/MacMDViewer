@@ -22,7 +22,6 @@ AI coding tools (Claude Code, Cursor) and AI assistants (ChatGPT, Claude) produc
 - Mermaid diagram rendering (flowcharts, sequence diagrams, and more)
 - Live reload: the view refreshes automatically when the file changes on disk
 - Finder QuickLook extension: press Space on a `.md` file to preview it rendered
-- Library view to browse and open your Markdown files
 - 12 document themes
 - Scroll-spy outline that highlights the active heading as you scroll
 - Native Swift 6 + SwiftUI app, a 5.4 MB download, universal binary (Apple Silicon and Intel)
